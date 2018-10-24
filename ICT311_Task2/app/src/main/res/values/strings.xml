@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyReceipts</string>
+    //Fragment
+    <string name="crime_title_hint">Enter a title for the receipt.</string>
+    <string name="crime_title_label">Title</string>
+    <string name="shop_title_label">Shop</string>
+    <string name="shop_title_hint">Enter a shop name.</string>
+    <string name="comment_title_label">Comments</string>
+    <string name="comment_title_hint">Enter comments.</string>
+    <string name="crime_details_label">Details</string>
+    <string name="date_picker_title">Date of receipt:</string>
+    <string name="new_crime">New Receipt</string>
+    <string name="delete_title">Delete</string>
+    //Fragment Buttons
+    <string name="receipt_report_text">Report</string>
+    <string name="send_report">Send receipt report via</string>
+    <string name="receipt_report_subject">MyReceipts receipt report</string>
+    <string name="receipt_report">%1$s!
+        This receipt report was created on %2$s. %3$s, and %4$s</string>
+    <string name="show_map_label">Show map</string>
+    //Toolbar
+    <string name="show_subtitle">Number of receipts</string>
+    <string name="hide_subtitle">Hide number of receipts</string>
+    <string name="subtitle_format">%1$d receipts</string>
+    <string name="help_title">Help</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
